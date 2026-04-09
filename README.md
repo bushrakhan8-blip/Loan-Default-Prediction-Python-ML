@@ -32,4 +32,4 @@ Key features include:
 Models were evaluated and compared to identify the best performer for predicting loan defaults, with insights provided on how the chosen model can support the bank's lending decision-making process.
 
 ## Tools & Skills
-`Python` · `Scikit-learn` · `Pandas` · `Matplotlib / Seaborn` · `Logistic Regression` · `Random Forest` · `Gradient Boosting / XGBoost` · `Microsoft Fabric` · `Azure Blob Storage` · `Jira` · `Agile`
+`Python` · `PySpark` · `Scikit-learn` · `Pandas` · `Matplotlib / Seaborn` · `Logistic Regression` · `Random Forest` · `Gradient Boosting` · `Microsoft Fabric` · `Azure Blob Storage` · `Jira` · `Agile`
