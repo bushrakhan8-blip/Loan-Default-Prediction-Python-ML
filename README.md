@@ -18,7 +18,7 @@ Key features include:
 ## Tasks Completed
 
 - **Agile Project Management** — set up a Jira board with To-do / In-progress / Done columns; conducted daily stand-ups and documented blockers
-- **Exploratory Data Analysis (EDA)** — inspected data types, missing values, and visualised distributions of loan amounts, credit scores, and loan statuses; analysed feature correlations
+- **Exploratory Data Analysis (EDA)** — inspected data types, missing values, filtered outliers and visualised distributions of loan amounts, credit scores, and loan statuses; analysed feature correlations via Python Codes
 - **Data Preprocessing** — handled missing values, filtered outliers, encoded categorical variables, and split data into training and testing sets
 - **Model Training** — trained and compared three classification models:
   - Logistic Regression
@@ -26,7 +26,7 @@ Key features include:
   - Gradient Boosting 
 - **Model Evaluation** — compared models using accuracy and confusion matrices; built an Actual vs Predicted results table for each model
 - **Cloud Storage** — saved prediction results to a **Microsoft Fabric DataLakehouse** as a Delta table
-- **Reporting** — produced a PowerPoint presentation and video walkthrough summarising findings, visualisations, and model recommendations
+- **Reporting** — produced a PowerPoint presentation summarising findings, visualisations, and model recommendations
 
 ## Results & Conclusion
 Models were evaluated and compared to identify the best performer for predicting loan defaults, with insights provided on how the chosen model can support the bank's lending decision-making process.
