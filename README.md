@@ -7,7 +7,7 @@ A collaborative machine learning project developed for an ANZ Bank analytics cha
 Predicting loan defaults helps banks minimise financial risk, improve profitability, and make faster, more informed lending decisions. This project builds and compares multiple classification models to identify the most accurate predictor of loan outcomes.
 
 ## Dataset
-Loaded from **Azure Blob Storage** 
+Loaded from **Azure Blob Storage** analysed using **Python**
 
 Key features include:
 - Applicant demographics — age, gender, education, income, employment experience, home ownership
